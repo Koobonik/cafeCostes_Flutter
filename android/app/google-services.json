@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "496383393399",
+    "firebase_url": "https://cafe-costes.firebaseio.com",
+    "project_id": "cafe-costes",
+    "storage_bucket": "cafe-costes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496383393399:android:8d444131a3e2ff99",
+        "android_client_info": {
+          "package_name": "com.costes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496383393399-h0or1ltkq7btt7htvdjc1g1rkfvbjbhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGwJJ3f51QnEO-lTov6qoBJjRVLE99o1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496383393399-h0or1ltkq7btt7htvdjc1g1rkfvbjbhl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496383393399-k8j332dh06ut1nv9bhlpusgn87m2thce.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.costes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
