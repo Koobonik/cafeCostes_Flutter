@@ -1,16 +1,9 @@
 # costes
 
-A new Flutter project.
+코스테스 카페 어플리케이션 구축
 
-## Getting Started
+프론트 엔드 파트
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+해동 소스는 오픈소스용으로 중요한 key값들을 제외하였습니다.
+2019.07.01 ~ 2019.10.27 까지 245 commit 이력이 있습니다.
+![capture](./asset/flutter.PNG)
